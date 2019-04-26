@@ -61,7 +61,8 @@ Evaluate other Projects using Issues
 
 Resources
 =========
-Please post questions in RforEngineers/Issues
+Please post questions in RforEngineers/Issues/PostQuestionsHere
 
 Swirl library information: https://github.com/swirldev/swirl_courses
+
 mtcars information: https://www.rdocumentation.org/packages/datasets/versions/3.5.3/topics/mtcars
