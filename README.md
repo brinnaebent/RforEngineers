@@ -52,11 +52,11 @@ Tutorial on ggplot: https://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
 
 Watch Week 4- Introduction to Project Video
 
-Create Project in GitHub/RforEngineers
+Create Repository in GitHub and Submit Link as an Issue, assign Issue to @brinnaebent
 
-Upload Project to RforEngineers
+Upload Project to Repository
 
-Evaluate other projects using Issues
+Evaluate other Projects using Issues
 
 Resources
 =========
