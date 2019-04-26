@@ -22,7 +22,7 @@ Course Schedule *suggested*
 
 Watch Week 1- Introduction to R Basics Video Demonstration: https://youtu.be/dq7pjpieYw4
 
-Complete swirl tutorials (R Programming: 1,2,3,4,5,6)
+Complete swirl tutorials (R Programming: 1-11)
 
 Read: https://www.r-bloggers.com/why-r-is-the-best-data-science-language-to-learn-today/
 
@@ -30,21 +30,22 @@ Read: https://www.r-bloggers.com/why-r-is-the-best-data-science-language-to-lear
 *Week 2:*
 
 
-Watch Week 2- R Basics continued: 
+Watch Week 2- Introduction to Visualizations in R and ggplot Video Demonstration:
 
-Complete swirl tutorials (R Programming: 7,8,9,10,11)
+Complete swirl tutorials (R Programming: 12-15)
 
-Complete mini-assignment (data: built in mtcars)
+Tutorial on ggplot: https://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
+
 
 
 *Week 3:*
 
 
-Watch Week 3- Introduction to Visualizations in R and ggplot Video Demonstration:
+Watch Week 3- Visualizations in R continued and Introduction to Mini Project:
 
-Complete swirl tutorials (R Programming: 12,13,14,15)
+Complete mini-assignment (data: built in mtcars)
 
-Tutorial on ggplot: https://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
+Read: https://bitesizebio.com/23003/my-10-favorite-r-packages-and-the-cool-things-you-can-do-with-them/
 
 
 *Week 4-5:*
