@@ -8,7 +8,10 @@ Assignment Analyses and Plots:
 2. Bar graph that shows the number of each gear type in mtcars
 3. Stacked bar graph of the number of each gear type and how they are further divided out by cyl
 4. Scatter plot showing the relationship between wt and mpg
-Boxplot to show the distribution of MPG values per number of gears
+5. Boxplot to show the distribution of MPG values per number of gears
+6. One *other* analysis- BE CREATIVE!
+
+Upload to RforEngineers/Issues/mtcarsAssignment as WELL COMMENTED code
 
 
 
