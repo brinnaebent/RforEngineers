@@ -4,6 +4,7 @@ Digital Pedagogy Final Project
 About the course:
 =================
 R is a statistical programming language not commonly taught to engineers. Engineers would benefit from having knowledge of this powerful statistical software. 
+
 R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS, making it an ideal platform for all your statistical computing needs. In this course, we will explore this platform: discussing the basics of getting started in R, working through computations in data analysis, and basic statistics, and visualization. The course will culminate in a final project where you will use R for a project you are currently working on. 
 
 Learning Objectives:
@@ -35,3 +36,8 @@ Watch Introduction to Project Video
 Create Project in GitHub/RforEngineers
 Upload Project to RforEngineers/Projects Space
 Evaluate other projects using comments
+
+Resources
+=========
+Swirl library information: https://github.com/swirldev/swirl_courses
+mtcars information: https://www.rdocumentation.org/packages/datasets/versions/3.5.3/topics/mtcars
