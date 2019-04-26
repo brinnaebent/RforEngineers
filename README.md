@@ -13,6 +13,7 @@ Learning Objectives:
 2. Apply basic statistics in R and solve basic computations in the swirl library tutorials
 3. Compare and contrast visualizations and plotting libraries in R and apply this knowledge to developing succinct plots
 4. Construct a project utilizing key components from the course (statistics, analysis, and visualizations)
+5. Evaluate the work of others, demonstrating a thorough grasp on course material
 
 Course Schedule *suggested*
 ===========================
