@@ -24,7 +24,7 @@ Read: https://www.r-bloggers.com/why-r-is-the-best-data-science-language-to-lear
 *Week 2:*
 Watch R Basics continued 
 Complete swirl tutorials (R Programming: 7,8,9,10,11)
-Complete mini-assignment (data: built in mtcars), post to RforEngineers/mtcarsProject
+Complete mini-assignment (data: built in mtcars)
 
 *Week 3:*
 Watch Introduction to Visualizations in R and ggplot Video Demonstration
@@ -34,10 +34,12 @@ Tutorial on ggplot: https://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
 *Week 4-5:*
 Watch Introduction to Project Video
 Create Project in GitHub/RforEngineers
-Upload Project to RforEngineers/Projects Space
-Evaluate other projects using comments
+Upload Project to RforEngineers
+Evaluate other projects using Issues
 
 Resources
 =========
+Please post questions in RforEngineers/Issues
+
 Swirl library information: https://github.com/swirldev/swirl_courses
 mtcars information: https://www.rdocumentation.org/packages/datasets/versions/3.5.3/topics/mtcars
