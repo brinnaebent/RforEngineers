@@ -40,7 +40,7 @@ Complete mini-assignment (data: built in mtcars)
 *Week 3:*
 
 
-Watch Week 3- Introduction to Visualizations in R and ggplot Video Demonstration
+Watch Week 3- Introduction to Visualizations in R and ggplot Video Demonstration:
 
 Complete swirl tutorials (R Programming: 12,13,14,15)
 
@@ -50,7 +50,7 @@ Tutorial on ggplot: https://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
 *Week 4-5:*
 
 
-Watch Week 4- Introduction to Project Video
+Watch Week 4- Introduction to Project Video:
 
 Create Repository in GitHub and Submit Link as an Issue, assign Issue to @brinnaebent
 
